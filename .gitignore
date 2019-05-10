@@ -1,0 +1,7 @@
+build/*
+test/*
+dist/*
+*.sh
+*.pyc
+*.DS_Store
+rrdraco.egg-info
